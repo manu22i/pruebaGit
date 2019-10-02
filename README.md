@@ -1,6 +1,6 @@
 # pruebaGitHub
 
-First Name | Last name
+First Name | Last Name
 ---------- | ---------
 Manuel|Rodríguez Álvarez
 Juan|Pérez Gil
