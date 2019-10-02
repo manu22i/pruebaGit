@@ -8,8 +8,8 @@ Prueba de contenido <h2>
 Prueba de contenido <h6>
 
 # Tabla
-First Name | Last Name
----------- | ---------
+Nombre | Apellidos
+------ | ---------
 Manuel|Rodríguez Álvarez
 Juan|Pérez Gil
 
