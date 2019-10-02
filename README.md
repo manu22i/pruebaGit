@@ -1,8 +1,8 @@
-# Encabezado <h1>
+# Encabezado
 Prueba de contenido <h1>
-## Encabezado <h2>
+## Encabezado
 Prueba de contenido <h2>
-### Encabezado <h6>
+### Encabezado
 Prueba de contenido <h6>
 
 
