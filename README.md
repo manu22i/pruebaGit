@@ -7,7 +7,7 @@ Prueba de contenido <h2>
 ### Encabezado
 Prueba de contenido <h6>
 
-
+# Tabla
 First Name | Last Name
 ---------- | ---------
 Manuel|Rodríguez Álvarez
